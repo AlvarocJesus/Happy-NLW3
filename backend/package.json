@@ -13,7 +13,7 @@
     "express-async-errors": "^3.1.1",
     "multer": "^2.1.1",
     "sqlite3": "^5.1.5",
-    "typeorm": "^0.3.26",
+    "typeorm": "^0.3.29",
     "yup": "^0.29.3"
   },
   "devDependencies": {
